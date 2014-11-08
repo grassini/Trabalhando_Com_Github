@@ -24,3 +24,18 @@ FAZENDO AS MODIFICAÇÕES NO PROJETO
 >4 - ATÉ AQUI TUDO SALVO NA MÁQUINA LOCAL.
 
 >5 - $ git push origin master (Enviando para o GitHub as Mudanças e atualizando o Repositório).
+
+
+
+**AQUI COMEÇA AS ALTERAÇÕES
+
+Nessa versão de meu commit vou adicionar algumas linhas
+--------
+
+**Esta é a versão 1.0.1**  segue abaixo as modificações:
+
+> Estas foram as linhas adicionadas
+>Neste comia que tem
+> a versão 1.0.0.1
+
+Alterações feita em 08/11/2014.
