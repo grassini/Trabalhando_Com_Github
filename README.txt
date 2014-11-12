@@ -39,3 +39,8 @@ Nessa versão de meu commit vou adicionar algumas linhas
 > a versão 0.0.1
 
 Alterações feita em 08/11/2014.
+
+
+
+*****
+Mais alterações feita em 12/11/2014
