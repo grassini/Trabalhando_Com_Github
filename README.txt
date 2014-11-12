@@ -35,7 +35,7 @@ Nessa versão de meu commit vou adicionar algumas linhas
 **Esta é a versão 1.0.1**  segue abaixo as modificações:
 
 > Estas foram as linhas adicionadas
->Neste comia que tem
-> a versão 1.0.0.1
+>Neste comit que tem
+> a versão 0.0.1
 
 Alterações feita em 08/11/2014.
